@@ -1,0 +1,1 @@
+Exercício 1 realizado em conjunto com Renan Berti e Keunan Carvalho. Após o término do exercício, as funcionalidades da classe BinaryGap e a chamada dessa classe foram separadas em arquivos. start.py faz a chamada da classe e functions.py possui os métodos da classe.
